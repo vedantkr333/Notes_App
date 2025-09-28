@@ -1,4 +1,4 @@
-NotesManager – Simple Text Notes App<br>
+# NotesManager – Simple Text Notes App<br>
 This is a basic Java console application to add, save, and view text notes. Notes are saved in a local file (notes.txt) to keep data persistent even after the program exits.
 <br>
 Features:
